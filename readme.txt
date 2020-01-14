@@ -2,4 +2,4 @@
 
 
 git i want lern you.
-i am sorry for my sdupid in threed years.
+are you want who was my favor.
