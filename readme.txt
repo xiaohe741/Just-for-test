@@ -2,4 +2,7 @@
 
 
 git i want lern you.
-git i will lern you and use you to make more money for us.
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
